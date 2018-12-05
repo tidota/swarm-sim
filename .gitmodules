@@ -1,0 +1,6 @@
+[submodule "swarm-stage"]
+	path = swarm-stage
+	url = git@github.com:tidota/swarm-stage.git
+[submodule "swarm-argos"]
+	path = swarm-argos
+	url = git@github.com:tidota/swarm-argos.git
