@@ -6,6 +6,7 @@ Both versions perform the same simulation task. Multiple robots collaborate to c
 
 For more details, please refer to the following repositories.
 
-- Swarm simulation by Stage
+- [Swarm simulation by Stage](./swarm-stage)
 
-- Swarm simulation by ARGoS
+- [Swarm simulation by ARGoS](./swarm-argos)
+
