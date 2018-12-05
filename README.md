@@ -26,3 +26,12 @@ For more details, please refer to the following repositories.
 
 - [Swarm simulation by ARGoS](https://github.com/tidota/swarm-argos)
 
+---
+
+Note:
+
+To add a new submodule
+```
+git submodule add <URL of the respository>
+```
+
